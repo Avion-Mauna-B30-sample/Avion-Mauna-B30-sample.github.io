@@ -1,0 +1,15 @@
+
+#main {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  background-image: url(image/phil-flag-as-a-trademark.jpg);
+  background-size: cover;
+  background-position: 30% 25%;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
